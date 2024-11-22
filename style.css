@@ -1,0 +1,38 @@
+body { 
+    background-color: #1f2020;
+    color: #ffffff ;
+}
+
+header {
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    background-color: chartreuse;
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    justify-content: space-around;
+}
+
+.contenu-de-droite {
+    background-color: blue;
+    width: 500px;
+    height: auto;
+}
+
+.contenu-de-gauche {
+    background-color: aquamarine;
+    width: 500px;
+    height: auto;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
